@@ -1,6 +1,6 @@
-# google_place
+# google_places
 
-## Discontinued
+## Re-continued version of google_place 0.4.7 (discontinued)
 
 ### This project is no longer maintained, and will not receive further updates.
 
